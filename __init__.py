@@ -26,7 +26,7 @@ def _build_cmd():
 def _restart():
     time.sleep(0.75)  # let the HTTP response reach the browser first
     cmd = _build_cmd()
-    print(f"[⏻ Restarter]: relaunching -> {' '.join(cmd)}")
+    print(f"[⏻ Restarter]: relaunching -> {' '.join(cmd)}", flush=True)
     sys.stdout.flush()
     sys.stderr.flush()
     if os.name == "nt":
