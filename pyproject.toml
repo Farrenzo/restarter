@@ -12,4 +12,4 @@ Repository = "https://github.com/Farrenzo/restarter"
 [tool.comfy]
 PublisherId = "farrenzo"
 DisplayName = "Restarter"
-Icon = "https://raw.githubusercontent.com/Farrenzo/restarter/f5b34f08dc83cd48ee75a67a4fa8639f0853f20f/.docs/%E2%8F%BB.svg"
+Icon = "https://raw.githubusercontent.com/Farrenzo/restarter/f5b34f08dc83cd48ee75a67a4fa8639f0853f20f/.docs/power_icon.svg"
