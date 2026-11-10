@@ -10,6 +10,6 @@ Repository = "https://github.com/Farrenzo/restarter"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = "Farrenzo"
+PublisherId = "farrenzo"
 DisplayName = "Restarter"
 Icon = "⏻"
